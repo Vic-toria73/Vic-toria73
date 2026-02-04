@@ -5,7 +5,7 @@ Développeuse full-stack en devenir 🧑‍💻
 ## 🛠️🤝 Compétences 
 <table><tr>
 <td>
-<h3>🛠️ Compétences</h3>
+<h3>🛠️ Compétences techniques</h3>
 <div>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
